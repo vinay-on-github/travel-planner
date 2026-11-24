@@ -10,12 +10,6 @@ Plans your trip from start to finish. Tell it where, when, who's going and your 
 1. Go to **Customize → Plugins**.
 2. Choose **Add → Upload plugin** and select the plugin zip, or **Add → Add marketplace** and enter the GitHub repository that lists this plugin.
 
-**Claude Code**
-```
-/plugin marketplace add YOUR_GITHUB_USERNAME/travel-planner-marketplace
-/plugin install travel-planner@travel-tools
-```
-
 A plugin added to your Claude account also appears in Claude Code automatically.
 
 ## Use
