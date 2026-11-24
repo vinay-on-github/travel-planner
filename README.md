@@ -16,7 +16,7 @@ A plugin added to your Claude account also appears in Claude Code automatically.
 
 Ask in plain words:
 
-> Plan a 4-day trip to Goa from Bangalore in January for 2 people, ₹60,000 budget, beaches and seafood
+> Plan a 4-day trip to Goa from Bangalore in January for 2 people, ₹60,000 budget, beaches and veg food
 
 Or use the command:
 
