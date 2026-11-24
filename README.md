@@ -21,7 +21,7 @@ Ask in plain words:
 Or use the command:
 
 ```
-/plan-trip Goa from Bangalore, 12–16 Jan, 2 adults, ₹60,000 total, beaches and seafood
+/plan-trip Goa from Bangalore, 12–16 Jan, 2 adults, ₹60,000 total, beaches and veg food
 ```
 
 In Claude.ai chat, turn on **web search** so the planner can look up flights, hotels and reviews.
