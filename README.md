@@ -42,6 +42,7 @@ travel-planner/
 ├── .claude-plugin/
 │   ├── plugin.json            # name, version, author
 │   └── icon.png               # listing icon
+|   └── marketplace.json       # manifest
 ├── skills/plan-trip/SKILL.md  # the planner (works in chat, Cowork and Claude Code)
 ├── agents/travel-planner.md   # same planner as a subagent (Cowork and Claude Code only)
 └── README.md
