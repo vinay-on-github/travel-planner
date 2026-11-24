@@ -1,0 +1,12 @@
+{
+  "name": "travel-planner",
+  "version": "1.0.0",
+  "description": "Plans trips end to end: compares flights and hotels, picks places to visit, checks reviews, and delivers a clear itinerary summary with booking links.",
+  "author": {
+    "name": "YOUR_NAME"
+  },
+  "homepage": "https://github.com/YOUR_GITHUB_USERNAME/travel-planner-marketplace",
+  "repository": "https://github.com/YOUR_GITHUB_USERNAME/travel-planner-marketplace",
+  "license": "MIT",
+  "keywords": ["travel", "flights", "hotels", "itinerary", "trip-planning"]
+}
