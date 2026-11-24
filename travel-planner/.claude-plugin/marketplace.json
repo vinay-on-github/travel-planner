@@ -1,0 +1,20 @@
+{
+  "name": "travel-tools",
+  "owner": {
+    "name": "YOUR_NAME"
+  },
+  "metadata": {
+    "description": "Travel planning plugin for Claude",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "travel-planner",
+      "source": "./",
+      "description": "Plans trips end to end: compares flights and hotels, picks places to visit, checks reviews, and delivers a clear itinerary summary with booking links.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["travel", "flights", "hotels", "itinerary", "trip-planning"]
+    }
+  ]
+}
